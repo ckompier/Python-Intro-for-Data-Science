@@ -6,3 +6,7 @@ This repository is used fot all the files used in Code Space Data Science
 
 2 $ conda create -n myenv python=3.11 
 
+abrir entorno de conda conda   
+
+crear rama en python git checkout -b nombredeturama
+
